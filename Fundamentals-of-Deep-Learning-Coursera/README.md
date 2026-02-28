@@ -4,6 +4,10 @@ This folder contains:
 - Certificate of completion
 - Screenshots of all quiz completions
 
+## Certificate
+![Certificate](Quiz-Screenshots/Certificate.png)
+
+
 ## Quiz Completion Screenshots
 
 ### Module 1
