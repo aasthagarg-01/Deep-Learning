@@ -1,6 +1,6 @@
 # Deep Learning Repository
 
-This repository contains course work and certifications related to Deep Learning.
+This repository contains coursework and certification related to Deep Learning.
 
 ## Contents
 
@@ -8,4 +8,12 @@ This repository contains course work and certifications related to Deep Learning
 - Certificate of completion
 - Screenshots of all quizzes and graded questions
 
-More assignments will be added in separate folders.
+### 2. Assignments
+All assignment notebooks are available in the **Assignments** folder:
+
+- Assignment 1
+- Assignment 3
+- Assignment 4
+- Assignment 5
+- Assignment 6
+- Assignment 7
